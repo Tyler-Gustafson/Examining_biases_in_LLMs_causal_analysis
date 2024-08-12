@@ -4,8 +4,11 @@ This report investigates whether large language models (LLMs) exhibit biases whe
 
 ### Authors
 [Tyler Gustafson](https://www.linkedin.com/in/tylergustafson/)
+
 [Assaph (Safi) Aharoni](https://www.linkedin.com/in/assaph-aharoni/)
-Alexandra Daniels
+
+[Alexandra Daniels](https://www.ischool.berkeley.edu/people/alexandra-daniels)
+
 [Conner Davis](https://www.linkedin.com/in/connerdavis/)
 
 # Contents
