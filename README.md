@@ -1,4 +1,4 @@
-![Image Description](https://github.com/Tyler-Gustafson/NoSQL_BART_algorithm_analysis/blob/main/01_background/title_image.jpg)
+![Image Description](https://github.com/Tyler-Gustafson/Examining_biases_in_LLMs_causal_analysis/blob/main/01_background/title_page.jpg?raw=true)
 
 
 # REPORT_Examining_biases_in_LLMs
