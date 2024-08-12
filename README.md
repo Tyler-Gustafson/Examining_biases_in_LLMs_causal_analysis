@@ -15,7 +15,7 @@ This report investigates whether large language models (LLMs) exhibit biases whe
 
 [Full Write Up](https://www.tylerjaygustafson.com/research-bias-in-llms)
 
-[Full Report](https://github.com/Tyler-Gustafson/Examining_biases_in_LLMs_causal_analysis/blob/main/Final_Research_Report_Caual_Analysis_of_Biases_in_LLMs.pdf)
+[Full Research Paper](https://github.com/Tyler-Gustafson/Examining_biases_in_LLMs_causal_analysis/blob/main/Final_Research_Report_Caual_Analysis_of_Biases_in_LLMs.pdf)
 
 
 
